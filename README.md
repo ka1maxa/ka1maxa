@@ -1,10 +1,10 @@
 # Hi there 👋
 
-🎓 Student studying at Georgian-American University (GAU)[cite: 3].  
-🌐 Languages: Georgian GE | English | Russian[cite: 3]  
-💻 Tech Stack: C#, PHP, Laravel, Angular, MySQL, MsSql, HTML, CSS, SQL[cite: 3]  
-⚡ Fun Fact: Passionate about clean backend structures, dark-themed UI designs, and cars![cite: 3]  
-📫 How to reach me: [tevzivar@gmail.com](mailto:tevzivar@gmail.com)[cite: 3]
+🎓 Student studying at Georgian-American University (GAU)  
+🌐 Languages: Georgian GE | English | Russian  
+💻 Tech Stack: C#, PHP, Laravel, Angular, MySQL, MsSql, HTML, CSS, SQL  
+⚡ Fun Fact: Passionate about clean backend structures, dark-themed UI designs, and cars!  
+📫 How to reach me: [tevzivar@gmail.com](mailto:tevzivar@gmail.com)
 
 ---
 
