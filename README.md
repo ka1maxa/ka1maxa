@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 🎓 Student studying at Georgian-American University (GAU).
 🌐 Languages: Georgian GE | English | Russian
